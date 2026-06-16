@@ -212,7 +212,6 @@ PRESETS: dict[str, ChannelPreset] = {
         "caption_font": "NotoSansDevanagari-Bold.ttf",
         "caption_font_name": "Noto Sans Devanagari",
         "yt_token_env": "YT_REFRESH_TOKEN_MYTH",
-        "extra_yt_token_envs": ["YT_REFRESH_TOKEN_MYTH_2"],
         "groq_system_hint": (
             "You write respectful Hindi Shorts about Indian mythology, epics, and devotion — for a general audience. "
             "LANGUAGE: full_narration, youtube_title, youtube_description entirely in Devanagari Hindi. "
