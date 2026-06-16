@@ -2,7 +2,6 @@ node_modules/
 .venv/
 output/
 .env
-.env.*
 *.pem
 secrets/
 __pycache__/
