@@ -5,6 +5,21 @@ Analytics of one of the channels — you can create hundreds like this
 
 Fully automated pipeline: Groq script → Edge TTS voice → AI images → captions → FFmpeg → YouTube upload — running daily via GitHub Actions.
 
+<div align="center">
+  <a href="https://youtube.com/shorts/HrYHpO7QymI">
+    <img
+      src="https://img.youtube.com/vi/HrYHpO7QymI/maxresdefault.jpg"
+      width="400"
+      style="border: 2px solid #30363d; border-radius: 10px;"
+      alt="ZeroCost Shorts sample video"
+    />
+  </a>
+</div>
+
+https://github.com/user-attachments/assets/e8a4c716-ef53-46e6-97fb-60cbfa6c4059
+
+
+
 Sample video from the channel: https://youtube.com/shorts/HrYHpO7QymI
 ## Architecture
 
