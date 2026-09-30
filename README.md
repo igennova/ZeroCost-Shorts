@@ -1,7 +1,5 @@
 # ZeroCost Shorts
 
-Analytics of one of the channels — you can create hundreds like this
-<img width="807" height="548" alt="Screenshot 2026-06-11 at 12 20 29 PM" src="https://github.com/user-attachments/assets/09f2ed03-aa1e-43bc-bd0c-21c0df3a958e" />
 
 Fully automated pipeline: Groq script → Edge TTS voice → AI images → captions → FFmpeg → YouTube upload — running daily via GitHub Actions.
 
@@ -21,6 +19,10 @@ Sample video from the channel: https://youtube.com/shorts/HrYHpO7QymI
     </td>
   </tr>
 </table>
+
+Analytics of one of the channels — you can create hundreds like this
+<img width="807" height="548" alt="Screenshot 2026-06-11 at 12 20 29 PM" src="https://github.com/user-attachments/assets/09f2ed03-aa1e-43bc-bd0c-21c0df3a958e" />
+
 
 ## Architecture
 
